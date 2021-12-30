@@ -16,12 +16,12 @@
 <p>html</p>
 <p>javascript</p>
 
-<h2>Libraries Used</p>
+<h2>Libraries Used</h2>
 <p>Moment.js</p>
 <p>jquery</p>
 <p>bootstrap</p>
 
 <h2>Deployable Link</h2>
-
+https://chris-mcleod2.github.io/WorkDayScheduler/
 <h2>Github Link<h2>
 https://github.com/Chris-McLeod2/WorkDayScheduler
