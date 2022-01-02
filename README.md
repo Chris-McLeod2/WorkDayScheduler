@@ -23,5 +23,5 @@
 
 <h2>Deployable Link</h2>
 https://chris-mcleod2.github.io/WorkDayScheduler/
-<h2>Github Link<h2>
+<h2>Github Link</h2>
 https://github.com/Chris-McLeod2/WorkDayScheduler
